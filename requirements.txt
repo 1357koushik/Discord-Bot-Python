@@ -1,0 +1,7 @@
+discord
+nest_asyncio
+psutil
+mysql-connector-python
+pillow
+requests
+kivy
