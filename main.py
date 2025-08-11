@@ -23,12 +23,7 @@ chat = []
 async def getm(tn):
     sch = client.get_channel(889441697912745995)
     mes = sch.get_partial_message(890054158214897686)
-    co = mysql.connector.connect(
-        charset='utf8mb4',
-        host='mysql-2c659f5d-koushik-0f01.d.aivencloud.com',
-        user='avnadmin',
-        password='AVNS_JdxE_ymdbe-j4srLh96',
-        database='defaultdb')
+    co = mysql.connector.connect()#add your credi
     cu = co.cursor()
     cu.execute('SELECT msg FROM me')
     try:
@@ -793,4 +788,4 @@ async def on_message(message):
 
 
 kp.ke()
-client.run('ODQxMjc2NTA3MDMyNzgwODAw.YJkZzQ.FKicyQ66PrGMAVZD7MICN9MtYEw')
+client.run('your token')
