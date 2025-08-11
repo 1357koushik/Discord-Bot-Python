@@ -18,15 +18,15 @@ Pixel Bot is a Discord bot created using python level system using sql.
 
 
 
-\-   \*\*Welcome and Leave Messages:\*\* Automatically sends a custom welcome message with a generated image when a new member joins and a leave message when a member leaves.
+\-   **Welcome and Leave Messages:** Automatically sends a custom welcome message with a generated image when a new member joins and a leave message when a member leaves.
 
-\-   \*\*Leveling System:\*\* Users can gain experience points (XP) by sending messages, which contributes to their level. The bot announces level-ups in a designated channel.
+\-   **Leveling System:** Users can gain experience points (XP) by sending messages, which contributes to their level. The bot announces level-ups in a designated channel.
 
-\-   \*\*Art Showcase:\*\* Provides a command for users to submit art, which is then posted in a specified channel with reaction emojis for voting.
+\-   **Art Showcase:** Provides a command for users to submit art, which is then posted in a specified channel with reaction emojis for voting.
 
-\-   \*\*Server Status:\*\* Connects to a game server (likely a Bombsquad server via Telnet) to display a list of online players in a Discord channel.
+\-   **Server Status:** Connects to a game server (likely a Bombsquad server via Telnet) to display a list of online players in a Discord channel.
 
-\-   \*\*General Commands:\*\* 
+\-   **General Commands: **
 
 <img width="585" height="345.5" alt="image" src="https://github.com/user-attachments/assets/6f73289c-2fb8-40b3-a5ab-24da43240790" />
 <img width="585" height="336.5" alt="image" src="https://github.com/user-attachments/assets/60c71526-0ef1-4e62-94de-4a39c3be2924" />
@@ -108,11 +108,11 @@ You will also need font files (`CaviarDreams.ttf`, `NEON LED Light 400.ttf`) and
 
 
 
-1\.  \*\*Install Dependencies:\*\*
+1\.  Install Dependencies:
 
 &nbsp;   `pip install -r requirements.txt` (assuming a `requirements.txt` file is created with the above libraries)
 
-2\.  \*\*Configure Environment:\*\*
+2\.  Configure Environment:
 
 &nbsp;   -   Replace `'your token'` with your actual Discord bot token.
 
@@ -120,7 +120,7 @@ You will also need font files (`CaviarDreams.ttf`, `NEON LED Light 400.ttf`) and
 
 &nbsp;   -   Configure the MySQL connection details in the `getm` function.
 
-3\.  \*\*Run the Bot:\*\*
+3\.  Run the Bot:
 
 &nbsp;   `python your\_bot\_file.py`
 
