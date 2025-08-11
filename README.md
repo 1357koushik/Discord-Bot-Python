@@ -28,8 +28,8 @@ Pixel Bot is a Discord bot created using python level system using sql.
 
 \-   \*\*General Commands:\*\* 
 
-<img width="1170" height="691" alt="image" src="https://github.com/user-attachments/assets/6f73289c-2fb8-40b3-a5ab-24da43240790" />
-<img width="1170" height="673" alt="image" src="https://github.com/user-attachments/assets/60c71526-0ef1-4e62-94de-4a39c3be2924" />
+<img width="585" height="345.5" alt="image" src="https://github.com/user-attachments/assets/6f73289c-2fb8-40b3-a5ab-24da43240790" />
+<img width="585" height="336.5" alt="image" src="https://github.com/user-attachments/assets/60c71526-0ef1-4e62-94de-4a39c3be2924" />
 
 
 \## Commands
