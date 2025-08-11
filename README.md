@@ -1,12 +1,9 @@
-# Discord-Bot-Python
+ Discord-Bot-Python
 
 Replica of my 2021 discord bot code
 
-\### README.md
 
-
-
-\# Pixel Bot
+>- Pixel Bot
 
 
 
@@ -14,7 +11,7 @@ Pixel Bot is a Discord bot created using python level system using sql.
 
 
 
-\## Features
+>- Features
 
 
 
@@ -32,11 +29,11 @@ Pixel Bot is a Discord bot created using python level system using sql.
 <img width="585" height="336.5" alt="image" src="https://github.com/user-attachments/assets/60c71526-0ef1-4e62-94de-4a39c3be2924" />
 
 
-\## Commands
+>- Commands
 
 
 
-\### User Commands
+>- User Commands
 
 
 
@@ -56,7 +53,7 @@ Pixel Bot is a Discord bot created using python level system using sql.
 
 
 
-\### Admin Commands
+>- Admin Commands
 
 
 
@@ -74,7 +71,7 @@ These commands require administrator permissions to use.
 
 
 
-\## Dependencies
+>- Dependencies
 
 
 
@@ -104,7 +101,7 @@ You will also need font files (`CaviarDreams.ttf`, `NEON LED Light 400.ttf`) and
 
 
 
-\## Setup
+>- Setup
 
 
 
